@@ -1,0 +1,18 @@
+The Interval Tree for sample dataset is :
+
+Low - 5, High - 20, Maximum = 20
+Low - 10, High - 30, Maximum = 30
+Low - 12, High - 15, Maximum = 15
+Low - 15, High - 20, Maximum = 40
+Low - 17, High - 19, Maximum = 40
+Low - 30, High - 40, Maximum = 40
+
+One more interval has been added to the tree.
+
+Deleting the interval added in the end - [32,38]
+
+Searching for interval 1 - [14,16]
+Interval found and overlaps with [15, 20]
+
+Searching for interval 2 - [21,23]
+Interval found and overlaps with [10, 30]
