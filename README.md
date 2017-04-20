@@ -12,7 +12,7 @@ problem1: https://community.topcoder.com/stat?c=problem_statement&pm=1259       
 # Bellman_Ford
 Bellman Ford Algorithm has been implemented in C++. Some test cases are run and corresponding outputs are matched.
 
-#Convex Hull
+# Convex Hull
 The following algorithms have been implemented from the scratch :
 
 Gift wrapping algorithm
